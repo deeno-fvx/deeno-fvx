@@ -19,8 +19,5 @@ I have a very abstract view of the world, and it shapes my behavior and norms. T
 🎧 Music & Coding
 I’m always listening to music while coding 🎶 — it's my relaxation!
 
-🌟 That's Me in a Nutshell!
-This version uses headings and emojis to create a friendly, engaging layout for your GitHub bio. It adds a little fun while still keeping things professional!
-
 🚀 Let’s Connect!
 Feel free to reach out, let's chat about code, tech, or anything else that sparks our creativity! ✨
