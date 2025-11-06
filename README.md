@@ -5,11 +5,11 @@ I'm a student programmer passionate about front-end development and building coo
 I’m currently studying at Bit Academy in Amsterdam, where I’m following the front-end development track.
 
 🖥 My Skills
-HTML/CSS
-Bulma
-Tailwind CSS
 JavaScript
-C & C#
+HTML
+CSS
+Tailwind
+Bootstrap
 🎮 In My Free Time
 When I’m not coding, you can find me gaming 🎮 or working on video editing 🎬. I like immersing myself in these creative activities!
 
