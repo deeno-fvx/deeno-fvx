@@ -13,9 +13,6 @@ Bootstrap
 🎮 In My Free Time
 When I’m not coding, you can find me gaming 🎮 or working on video editing 🎬. I like immersing myself in these creative activities!
 
-🌍 My Worldview
-I have a very abstract view of the world, and it shapes my behavior and norms. This perspective drives how I approach problem-solving and creativity.
-
 🎧 Music & Coding
 I’m always listening to music while coding 🎶 — it's my relaxation!
 
